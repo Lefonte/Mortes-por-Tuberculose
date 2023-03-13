@@ -3,7 +3,7 @@
 
 # # Mortes por Tuberculose
 # 
-# Letícia Fontenelle, 10 de Março.  
+# Letícia Fontenelle, 11 de Março.  
 # 
 # 
 # Dentro dos Objetivos de Desenvolvimento do Milênio para redução da pobreza e as doenças, diminuição da desigualdade de gênero e a sustentabilidade ambiental entre outros. 
@@ -24,7 +24,7 @@
 # 
 # Os dados correspondem a população total e número total de mortes por TB (excluídos os casos de HIV) em 2013 para cada um dos BRICS (Brasil, Rússia, Índia, China, África do Sul) e países de língua portuguesa.
 # 
-# Fonte dos dados extraídos em 07/2015 <http://apps.who.int/gho/data/node.main.POP107?lang=en> (população) e <http://apps.who.int/gho/ data/node.main.1317?lang=en> (mortes). 
+# Fonte dos dados extraídos <http://apps.who.int/gho/data/node.main.POP107?lang=en> (população) e <http://apps.who.int/gho/ data/node.main.1317?lang=en> (mortes). 
 # 
 # A coleta foi feita por meio de arquivo Excel.
 
